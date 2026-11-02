@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    color-scheme: light dark;
+  }
+  
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    overflow-x: hidden;
+    @apply bg-[#f0f5fa] text-slate-900 dark:bg-[#0c1427] dark:text-slate-100 transition-colors duration-200;
+  }
+  
+  h1, h2, h3, .font-serif-literary {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* Custom Scrollbar & High Contrast Selection */
+::selection {
+  background-color: rgba(225, 29, 72, 0.2);
+  color: #9f1239;
+}
+
+.dark ::selection {
+  background-color: rgba(56, 189, 248, 0.25);
+  color: #7dd3fc;
+}
+
+/* Hide scrollbar for clean horizontal tabs */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+
+/* Mobile contrast and long-title safety */
+html { overflow-x: clip; }
+body { overflow-wrap: anywhere; }
+button, input, select, textarea { font: inherit; }
+.dark input, .dark textarea, .dark select { color-scheme: dark; }
+.dark input::placeholder, .dark textarea::placeholder { color: #94a3b8; opacity: 1; }
+:focus-visible { outline: 2px solid #e11d48; outline-offset: 2px; }
+
+/* Android Chrome / iPhone Safari: navigation remains above system gesture area.
+   External hosting overlays cannot be removed from application code. */
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+  .mobile-safe-navigation { padding-bottom: max(0.5rem, env(safe-area-inset-bottom)); }
+}
+@media (max-width: 767px) {
+  body { padding-bottom: calc(5.75rem + env(safe-area-inset-bottom, 0px)); }
+  .mobile-safe-navigation button { min-width: 0; touch-action: manipulation; }
+}
+
+/* V14 responsive alignment: avoid forced word breaks inside actions. */
+button, [role="button"] { overflow-wrap: normal; word-break: normal; }
+button { max-width: 100%; }
+input, textarea, select { min-width: 0; max-width: 100%; }
+@media(max-width:640px) {
+  .mobile-safe-navigation { width: 100%; }
+  .mobile-safe-navigation button { overflow: hidden; }
+  .mobile-safe-navigation button span { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+}
