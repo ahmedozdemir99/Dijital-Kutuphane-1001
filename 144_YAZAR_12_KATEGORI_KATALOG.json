@@ -1,0 +1,1492 @@
+[
+  {
+    "category": "Tefsir ve Kur’an İlimleri",
+    "author": "Taberî",
+    "books": [
+      "Câmiu’l-Beyân",
+      "Târîhu’r-Rusül ve’l-Mülûk",
+      "Tehzîbü’l-Âsâr",
+      "İhtilâfü’l-Fukahâ"
+    ]
+  },
+  {
+    "category": "Tefsir ve Kur’an İlimleri",
+    "author": "Fahreddin er-Râzî",
+    "books": [
+      "Mefâtîhu’l-Gayb",
+      "el-Mahsûl",
+      "el-Metâlibü’l-Âliye",
+      "el-Erbaîn fî Usûli’d-Dîn"
+    ]
+  },
+  {
+    "category": "Tefsir ve Kur’an İlimleri",
+    "author": "Kurtubî",
+    "books": [
+      "el-Câmi li-Ahkâmi’l-Kur’ân",
+      "et-Tezkire",
+      "el-Esnâ fî Şerhi Esmâillâhi’l-Hüsnâ",
+      "et-Tezkâr"
+    ]
+  },
+  {
+    "category": "Tefsir ve Kur’an İlimleri",
+    "author": "İbn Kesîr",
+    "books": [
+      "Tefsîrü’l-Kur’âni’l-Azîm",
+      "el-Bidâye ve’n-Nihâye",
+      "es-Sîretü’n-Nebeviyye",
+      "Kasasü’l-Enbiyâ"
+    ]
+  },
+  {
+    "category": "Tefsir ve Kur’an İlimleri",
+    "author": "Zemahşerî",
+    "books": [
+      "el-Keşşâf",
+      "Esâsü’l-Belâğa",
+      "el-Mufassal",
+      "Rabîu’l-Ebrâr"
+    ]
+  },
+  {
+    "category": "Tefsir ve Kur’an İlimleri",
+    "author": "Süyûtî",
+    "books": [
+      "el-İtkân fî Ulûmi’l-Kur’ân",
+      "ed-Dürrü’l-Mensûr",
+      "Târîhu’l-Hulefâ",
+      "el-Câmiu’s-Sagîr"
+    ]
+  },
+  {
+    "category": "Tefsir ve Kur’an İlimleri",
+    "author": "İsmail Hakkı Bursevî",
+    "books": [
+      "Rûhu’l-Beyân",
+      "Ferâhu’r-Rûh",
+      "Şerh-i Mesnevî",
+      "Kitâbü’n-Netîce"
+    ]
+  },
+  {
+    "category": "Tefsir ve Kur’an İlimleri",
+    "author": "Elmalılı Hamdi Yazır",
+    "books": [
+      "Hak Dini Kur’an Dili"
+    ]
+  },
+  {
+    "category": "Tefsir ve Kur’an İlimleri",
+    "author": "Muhammed Esed",
+    "books": [
+      "Kur’an Mesajı",
+      "Mekke’ye Giden Yol",
+      "İslam’da Yönetim Biçimi",
+      "Yolların Ayrılış Noktasında İslam"
+    ]
+  },
+  {
+    "category": "Tefsir ve Kur’an İlimleri",
+    "author": "Seyyid Kutub",
+    "books": [
+      "Fî Zılâli’l-Kur’ân",
+      "Yoldaki İşaretler",
+      "İslam’da Sosyal Adalet",
+      "İslam-Kapitalizm Çatışması"
+    ]
+  },
+  {
+    "category": "Tefsir ve Kur’an İlimleri",
+    "author": "Mevdûdî",
+    "books": [
+      "Tefhîmü’l-Kur’ân",
+      "İslam’da Hükümet",
+      "İslam’a İlk Adım",
+      "İslam’da İhya Hareketleri"
+    ]
+  },
+  {
+    "category": "Tefsir ve Kur’an İlimleri",
+    "author": "Ömer Nasuhi Bilmen",
+    "books": [
+      "Kur’an-ı Kerim’in Türkçe Meâl-i Âlisi ve Tefsiri",
+      "Büyük İslam İlmihali",
+      "Hukuk-ı İslâmiyye ve Istılâhât-ı Fıkhiyye Kamusu",
+      "Ashâb-ı Kirâm Hakkında Müslümanların Nezih İtikadları"
+    ]
+  },
+  {
+    "category": "Hadis ve Sünnet",
+    "author": "İmam Buhârî",
+    "books": [
+      "el-Câmiu’s-Sahîh",
+      "el-Edebü’l-Müfred",
+      "et-Târîhu’l-Kebîr",
+      "Halku Ef’âli’l-İbâd"
+    ]
+  },
+  {
+    "category": "Hadis ve Sünnet",
+    "author": "İmam Müslim",
+    "books": [
+      "Sahîh-i Müslim",
+      "et-Temyîz",
+      "el-Künâ ve’l-Esmâ",
+      "et-Tabakât"
+    ]
+  },
+  {
+    "category": "Hadis ve Sünnet",
+    "author": "Ebû Dâvûd",
+    "books": [
+      "Sünen-i Ebû Dâvûd",
+      "el-Merâsîl",
+      "Mesâilü’l-İmâm Ahmed",
+      "Kitâbü’z-Zühd"
+    ]
+  },
+  {
+    "category": "Hadis ve Sünnet",
+    "author": "Tirmizî",
+    "books": [
+      "Sünen-i Tirmizî",
+      "eş-Şemâilü’l-Muhammediyye",
+      "el-İlelü’l-Kebîr",
+      "el-İlelü’s-Sagîr"
+    ]
+  },
+  {
+    "category": "Hadis ve Sünnet",
+    "author": "Nesâî",
+    "books": [
+      "es-Sünenü’l-Kübrâ",
+      "el-Müctebâ",
+      "Amelü’l-Yevm ve’l-Leyle",
+      "Hasâisü Ali"
+    ]
+  },
+  {
+    "category": "Hadis ve Sünnet",
+    "author": "İbn Mâce",
+    "books": [
+      "Sünen-i İbn Mâce",
+      "Tefsîru İbn Mâce",
+      "Târîhu İbn Mâce"
+    ]
+  },
+  {
+    "category": "Hadis ve Sünnet",
+    "author": "İmam Nevevî",
+    "books": [
+      "Riyâzü’s-Sâlihîn",
+      "Kırk Hadis",
+      "el-Ezkâr",
+      "Şerhu Sahîhi Müslim"
+    ]
+  },
+  {
+    "category": "Hadis ve Sünnet",
+    "author": "İbn Hacer el-Askalânî",
+    "books": [
+      "Fethu’l-Bârî",
+      "Bulûğu’l-Merâm",
+      "Nuhbetü’l-Fiker",
+      "el-İsâbe"
+    ]
+  },
+  {
+    "category": "Hadis ve Sünnet",
+    "author": "İbn Receb el-Hanbelî",
+    "books": [
+      "Câmiu’l-Ulûm ve’l-Hikem",
+      "Letâifü’l-Maârif",
+      "Fethu’l-Bârî",
+      "ez-Zeyl alâ Tabakâti’l-Hanâbile"
+    ]
+  },
+  {
+    "category": "Hadis ve Sünnet",
+    "author": "Beyhakî",
+    "books": [
+      "es-Sünenü’l-Kübrâ",
+      "Şuabü’l-Îmân",
+      "Delâilü’n-Nübüvve",
+      "el-Esmâ ve’s-Sıfât"
+    ]
+  },
+  {
+    "category": "Hadis ve Sünnet",
+    "author": "Dârimî",
+    "books": [
+      "Sünenü’d-Dârimî"
+    ]
+  },
+  {
+    "category": "Hadis ve Sünnet",
+    "author": "Ahmed b. Hanbel",
+    "books": [
+      "el-Müsned",
+      "Kitâbü’z-Zühd",
+      "er-Red ale’l-Cehmiyye",
+      "Fedâilü’s-Sahâbe"
+    ]
+  },
+  {
+    "category": "Fıkıh ve İslam Hukuku",
+    "author": "Ebû Hanîfe",
+    "books": [
+      "el-Fıkhü’l-Ekber",
+      "el-Âlim ve’l-Müteallim",
+      "el-Fıkhü’l-Ebsat",
+      "er-Risâle"
+    ]
+  },
+  {
+    "category": "Fıkıh ve İslam Hukuku",
+    "author": "Ebû Yûsuf",
+    "books": [
+      "Kitâbü’l-Harâc",
+      "Kitâbü’l-Âsâr",
+      "İhtilâfü Ebî Hanîfe ve İbn Ebî Leylâ",
+      "er-Red alâ Siyeri’l-Evzâî"
+    ]
+  },
+  {
+    "category": "Fıkıh ve İslam Hukuku",
+    "author": "İmam Muhammed eş-Şeybânî",
+    "books": [
+      "el-Asl",
+      "el-Câmiu’s-Sagîr",
+      "el-Câmiu’l-Kebîr",
+      "es-Siyerü’l-Kebîr"
+    ]
+  },
+  {
+    "category": "Fıkıh ve İslam Hukuku",
+    "author": "Serahsî",
+    "books": [
+      "el-Mebsût",
+      "Usûlü’s-Serahsî",
+      "Şerhu’s-Siyeri’l-Kebîr"
+    ]
+  },
+  {
+    "category": "Fıkıh ve İslam Hukuku",
+    "author": "Kâsânî",
+    "books": [
+      "Bedâiu’s-Sanâi",
+      "es-Sultânü’l-Mübîn"
+    ]
+  },
+  {
+    "category": "Fıkıh ve İslam Hukuku",
+    "author": "Mergînânî",
+    "books": [
+      "el-Hidâye",
+      "Bidâyetü’l-Mübtedî",
+      "Kifâyetü’l-Müntehî"
+    ]
+  },
+  {
+    "category": "Fıkıh ve İslam Hukuku",
+    "author": "İbn Âbidîn",
+    "books": [
+      "Reddü’l-Muhtâr",
+      "Neşrü’l-Arf",
+      "Ukûdü Resmi’l-Müftî",
+      "Minhatü’l-Hâlik"
+    ]
+  },
+  {
+    "category": "Fıkıh ve İslam Hukuku",
+    "author": "İmam Şâfiî",
+    "books": [
+      "er-Risâle",
+      "el-Ümm",
+      "İhtilâfü’l-Hadîs",
+      "Cimâu’l-İlm"
+    ]
+  },
+  {
+    "category": "Fıkıh ve İslam Hukuku",
+    "author": "İmam Mâlik",
+    "books": [
+      "el-Muvatta",
+      "el-Müdevvene"
+    ]
+  },
+  {
+    "category": "Fıkıh ve İslam Hukuku",
+    "author": "İbn Rüşd",
+    "books": [
+      "Bidâyetü’l-Müctehid",
+      "Faslü’l-Makâl",
+      "Tehâfütü’t-Tehâfüt",
+      "el-Keşf an Menâhici’l-Edille"
+    ]
+  },
+  {
+    "category": "Fıkıh ve İslam Hukuku",
+    "author": "İbn Hazm",
+    "books": [
+      "el-Muhallâ",
+      "el-İhkâm fî Usûli’l-Ahkâm",
+      "el-Fasl fi’l-Milel",
+      "Tavku’l-Hamâme"
+    ]
+  },
+  {
+    "category": "Fıkıh ve İslam Hukuku",
+    "author": "Hayreddin Karaman",
+    "books": [
+      "Mukayeseli İslam Hukuku",
+      "İslam Hukuk Tarihi",
+      "Anahatlarıyla İslam Hukuku",
+      "Günlük Hayatımızda Helaller ve Haramlar"
+    ]
+  },
+  {
+    "category": "Tasavvuf ve Ahlak",
+    "author": "İmam Gazâlî",
+    "books": [
+      "İhyâ-u Ulûmi’d-Dîn",
+      "Kimyâ-yı Saâdet",
+      "el-Munkız mine’d-Dalâl",
+      "Eyyühe’l-Veled",
+      "Mişkâtü’l-Envâr",
+      "Bidâyetü’l-Hidâye",
+      "Tehâfütü’l-Felâsife",
+      "Mîzânü’l-Amel"
+    ]
+  },
+  {
+    "category": "Tasavvuf ve Ahlak",
+    "author": "Mevlânâ Celâleddîn-i Rûmî",
+    "books": [
+      "Mesnevî",
+      "Fîhi Mâ Fîh",
+      "Dîvân-ı Kebîr",
+      "Mecâlis-i Sebʿa"
+    ]
+  },
+  {
+    "category": "Tasavvuf ve Ahlak",
+    "author": "İbn Arabî",
+    "books": [
+      "Fusûsu’l-Hikem",
+      "el-Fütûhâtü’l-Mekkiyye",
+      "Tercümânü’l-Eşvâk",
+      "Rûhu’l-Kuds"
+    ]
+  },
+  {
+    "category": "Tasavvuf ve Ahlak",
+    "author": "Abdülkâdir Geylânî",
+    "books": [
+      "Fütûhu’l-Gayb",
+      "el-Gunye li-Tâlibî Tarîki’l-Hak",
+      "el-Fethu’r-Rabbânî",
+      "Cilâü’l-Hâtır"
+    ]
+  },
+  {
+    "category": "Tasavvuf ve Ahlak",
+    "author": "İmam Rabbânî",
+    "books": [
+      "Mektûbât",
+      "Mebde ve Meâd",
+      "Maârif-i Ledünniyye",
+      "İsbâtü’n-Nübüvve"
+    ]
+  },
+  {
+    "category": "Tasavvuf ve Ahlak",
+    "author": "Kuşeyrî",
+    "books": [
+      "er-Risâletü’l-Kuşeyriyye",
+      "Letâifü’l-İşârât",
+      "Nahvü’l-Kulûb",
+      "et-Tahbîr fi’t-Tezkîr"
+    ]
+  },
+  {
+    "category": "Tasavvuf ve Ahlak",
+    "author": "Hücvirî",
+    "books": [
+      "Keşfü’l-Mahcûb"
+    ]
+  },
+  {
+    "category": "Tasavvuf ve Ahlak",
+    "author": "Ferîdüddin Attâr",
+    "books": [
+      "Mantıku’t-Tayr",
+      "Tezkiretü’l-Evliyâ",
+      "İlâhînâme",
+      "Esrârnâme"
+    ]
+  },
+  {
+    "category": "Tasavvuf ve Ahlak",
+    "author": "Sâdî-i Şîrâzî",
+    "books": [
+      "Bostan",
+      "Gülistan",
+      "Gazeller",
+      "Kaside ve Kıtalar"
+    ]
+  },
+  {
+    "category": "Tasavvuf ve Ahlak",
+    "author": "Yunus Emre",
+    "books": [
+      "Dîvân",
+      "Risâletü’n-Nushiyye"
+    ]
+  },
+  {
+    "category": "Tasavvuf ve Ahlak",
+    "author": "Hacı Bektaş Velî",
+    "books": [
+      "Makâlât",
+      "Kitâbü’l-Fevâid",
+      "Şathiyye",
+      "Besmele Tefsiri"
+    ]
+  },
+  {
+    "category": "Tasavvuf ve Ahlak",
+    "author": "Nurettin Topçu",
+    "books": [
+      "İsyan Ahlâkı",
+      "Var Olmak",
+      "Türkiye’nin Maarif Davası",
+      "Yarınki Türkiye",
+      "İslam ve İnsan",
+      "Ahlâk Nizamı"
+    ]
+  },
+  {
+    "category": "Siyer ve İslam Tarihi",
+    "author": "İbn Hişâm",
+    "books": [
+      "es-Sîretü’n-Nebeviyye"
+    ]
+  },
+  {
+    "category": "Siyer ve İslam Tarihi",
+    "author": "İbn İshak",
+    "books": [
+      "es-Sîre"
+    ]
+  },
+  {
+    "category": "Siyer ve İslam Tarihi",
+    "author": "İbn Sa’d",
+    "books": [
+      "et-Tabakâtü’l-Kübrâ"
+    ]
+  },
+  {
+    "category": "Siyer ve İslam Tarihi",
+    "author": "Belâzürî",
+    "books": [
+      "Fütûhu’l-Büldân",
+      "Ensâbü’l-Eşrâf"
+    ]
+  },
+  {
+    "category": "Siyer ve İslam Tarihi",
+    "author": "İbnü’l-Esîr",
+    "books": [
+      "el-Kâmil fi’t-Târîh",
+      "Üsdü’l-Gâbe",
+      "el-Lübâb fî Tehzîbi’l-Ensâb",
+      "en-Nihâye fî Garîbi’l-Hadîs"
+    ]
+  },
+  {
+    "category": "Siyer ve İslam Tarihi",
+    "author": "İbn Haldun",
+    "books": [
+      "Mukaddime",
+      "Kitâbü’l-İber",
+      "et-Taʿrîf bi-İbn Haldûn",
+      "Şifâʾü’s-Sâʾil"
+    ]
+  },
+  {
+    "category": "Siyer ve İslam Tarihi",
+    "author": "İbn Kesîr (Tarih)",
+    "books": [
+      "el-Bidâye ve’n-Nihâye",
+      "es-Sîretü’n-Nebeviyye",
+      "Kasasü’l-Enbiyâ",
+      "Tefsîrü’l-Kur’âni’l-Azîm"
+    ]
+  },
+  {
+    "category": "Siyer ve İslam Tarihi",
+    "author": "Martin Lings",
+    "books": [
+      "Hz. Muhammed’in Hayatı",
+      "Tasavvuf Nedir?",
+      "On Birinci Saat",
+      "Antik İnançlar ve Modern Hurafeler"
+    ]
+  },
+  {
+    "category": "Siyer ve İslam Tarihi",
+    "author": "Muhammed Hamidullah",
+    "books": [
+      "İslam Peygamberi",
+      "İslam Hukukuna Giriş",
+      "İslam Müesseselerine Giriş",
+      "Hz. Peygamber’in Savaşları"
+    ]
+  },
+  {
+    "category": "Siyer ve İslam Tarihi",
+    "author": "Ali Muhammed Sallâbî",
+    "books": [
+      "Hz. Ebû Bekir",
+      "Hz. Ömer",
+      "Hz. Osman",
+      "Hz. Ali"
+    ]
+  },
+  {
+    "category": "Siyer ve İslam Tarihi",
+    "author": "İhsan Süreyya Sırma",
+    "books": [
+      "Müslümanların Tarihi",
+      "Peygamberimizin Hayatı",
+      "İslam ve Tarih",
+      "Emeviler Dönemi"
+    ]
+  },
+  {
+    "category": "Siyer ve İslam Tarihi",
+    "author": "Ahmet Cevdet Paşa",
+    "books": [
+      "Kısas-ı Enbiyâ ve Tevârîh-i Hulefâ",
+      "Tarih-i Cevdet",
+      "Tezâkir",
+      "Ma’rûzât"
+    ]
+  },
+  {
+    "category": "Türk Edebiyatı",
+    "author": "Orhan Pamuk",
+    "books": [
+      "Benim Adım Kırmızı",
+      "Masumiyet Müzesi",
+      "Kar",
+      "Kara Kitap",
+      "Yeni Hayat",
+      "Cevdet Bey ve Oğulları",
+      "Beyaz Kale",
+      "Sessiz Ev"
+    ]
+  },
+  {
+    "category": "Türk Edebiyatı",
+    "author": "Yaşar Kemal",
+    "books": [
+      "İnce Memed",
+      "Yer Demir Gök Bakır",
+      "Ortadirek",
+      "Teneke",
+      "Ağrıdağı Efsanesi",
+      "Binboğalar Efsanesi"
+    ]
+  },
+  {
+    "category": "Türk Edebiyatı",
+    "author": "Sabahattin Ali",
+    "books": [
+      "Kürk Mantolu Madonna",
+      "Kuyucaklı Yusuf",
+      "İçimizdeki Şeytan",
+      "Değirmen",
+      "Kağnı",
+      "Ses"
+    ]
+  },
+  {
+    "category": "Türk Edebiyatı",
+    "author": "Ahmet Hamdi Tanpınar",
+    "books": [
+      "Huzur",
+      "Saatleri Ayarlama Enstitüsü",
+      "Mahur Beste",
+      "Sahnenin Dışındakiler",
+      "Beş Şehir",
+      "Abdullah Efendi’nin Rüyaları"
+    ]
+  },
+  {
+    "category": "Türk Edebiyatı",
+    "author": "Peyami Safa",
+    "books": [
+      "Dokuzuncu Hariciye Koğuşu",
+      "Fatih-Harbiye",
+      "Yalnızız",
+      "Matmazel Noraliya’nın Koltuğu",
+      "Bir Tereddüdün Romanı",
+      "Sözde Kızlar"
+    ]
+  },
+  {
+    "category": "Türk Edebiyatı",
+    "author": "Tarık Buğra",
+    "books": [
+      "Küçük Ağa",
+      "Osmancık",
+      "İbiş’in Rüyası",
+      "Firavun İmanı",
+      "Dönemeçte"
+    ]
+  },
+  {
+    "category": "Türk Edebiyatı",
+    "author": "Reşat Nuri Güntekin",
+    "books": [
+      "Çalıkuşu",
+      "Yaprak Dökümü",
+      "Acımak",
+      "Yeşil Gece",
+      "Dudaktan Kalbe",
+      "Miskinler Tekkesi"
+    ]
+  },
+  {
+    "category": "Türk Edebiyatı",
+    "author": "Halide Edib Adıvar",
+    "books": [
+      "Sinekli Bakkal",
+      "Ateşten Gömlek",
+      "Vurun Kahpeye",
+      "Handan",
+      "Mor Salkımlı Ev",
+      "Tatarcık"
+    ]
+  },
+  {
+    "category": "Türk Edebiyatı",
+    "author": "Kemal Tahir",
+    "books": [
+      "Devlet Ana",
+      "Esir Şehrin İnsanları",
+      "Yorgun Savaşçı",
+      "Kurt Kanunu",
+      "Rahmet Yolları Kesti",
+      "Bozkırdaki Çekirdek"
+    ]
+  },
+  {
+    "category": "Türk Edebiyatı",
+    "author": "Oğuz Atay",
+    "books": [
+      "Tutunamayanlar",
+      "Tehlikeli Oyunlar",
+      "Bir Bilim Adamının Romanı",
+      "Korkuyu Beklerken",
+      "Günlük"
+    ]
+  },
+  {
+    "category": "Türk Edebiyatı",
+    "author": "İhsan Oktay Anar",
+    "books": [
+      "Puslu Kıtalar Atlası",
+      "Kitab-ül Hiyel",
+      "Efrasiyab’ın Hikâyeleri",
+      "Amat",
+      "Suskunlar",
+      "Yedinci Gün"
+    ]
+  },
+  {
+    "category": "Türk Edebiyatı",
+    "author": "İskender Pala",
+    "books": [
+      "Babil’de Ölüm İstanbul’da Aşk",
+      "Şah ve Sultan",
+      "Od",
+      "Katre-i Matem",
+      "Efsane",
+      "Abum Rabum"
+    ]
+  },
+  {
+    "category": "Dünya Edebiyatı",
+    "author": "Dostoyevski",
+    "books": [
+      "Suç ve Ceza",
+      "Karamazov Kardeşler",
+      "Budala",
+      "Yeraltından Notlar",
+      "Ecinniler",
+      "Ölüler Evinden Anılar",
+      "Delikanlı",
+      "İnsancıklar",
+      "Beyaz Geceler",
+      "Kumarbaz"
+    ]
+  },
+  {
+    "category": "Dünya Edebiyatı",
+    "author": "Tolstoy",
+    "books": [
+      "Savaş ve Barış",
+      "Anna Karenina",
+      "Diriliş",
+      "İvan İlyiç’in Ölümü",
+      "Kreutzer Sonat",
+      "İnsan Ne ile Yaşar?",
+      "Hacı Murat",
+      "Çocukluk"
+    ]
+  },
+  {
+    "category": "Dünya Edebiyatı",
+    "author": "Victor Hugo",
+    "books": [
+      "Sefiller",
+      "Notre Dame’ın Kamburu",
+      "Bir İdam Mahkûmunun Son Günü",
+      "Deniz İşçileri",
+      "Gülen Adam",
+      "Doksan Üç"
+    ]
+  },
+  {
+    "category": "Dünya Edebiyatı",
+    "author": "Charles Dickens",
+    "books": [
+      "İki Şehrin Hikâyesi",
+      "Oliver Twist",
+      "Büyük Umutlar",
+      "David Copperfield",
+      "Bir Noel Şarkısı",
+      "Zor Zamanlar",
+      "Küçük Dorrit",
+      "Kasvetli Ev"
+    ]
+  },
+  {
+    "category": "Dünya Edebiyatı",
+    "author": "Stefan Zweig",
+    "books": [
+      "Satranç",
+      "Bilinmeyen Bir Kadının Mektubu",
+      "Amok Koşucusu",
+      "Olağanüstü Bir Gece",
+      "Korku",
+      "Bir Kadının Yaşamından Yirmi Dört Saat",
+      "Yakıcı Sır",
+      "Mecburiyet"
+    ]
+  },
+  {
+    "category": "Dünya Edebiyatı",
+    "author": "Franz Kafka",
+    "books": [
+      "Dönüşüm",
+      "Dava",
+      "Şato",
+      "Amerika",
+      "Babaya Mektup",
+      "Ceza Sömürgesi"
+    ]
+  },
+  {
+    "category": "Dünya Edebiyatı",
+    "author": "George Orwell",
+    "books": [
+      "1984",
+      "Hayvan Çiftliği",
+      "Paris ve Londra’da Beş Parasız",
+      "Katalonya’ya Selam",
+      "Aspidistra",
+      "Burma Günleri"
+    ]
+  },
+  {
+    "category": "Dünya Edebiyatı",
+    "author": "Albert Camus",
+    "books": [
+      "Yabancı",
+      "Veba",
+      "Düşüş",
+      "Başkaldıran İnsan",
+      "Sisifos Söyleni",
+      "Mutlu Ölüm"
+    ]
+  },
+  {
+    "category": "Dünya Edebiyatı",
+    "author": "Hermann Hesse",
+    "books": [
+      "Siddhartha",
+      "Bozkırkurdu",
+      "Demian",
+      "Narziss ve Goldmund",
+      "Boncuk Oyunu",
+      "Çarklar Arasında"
+    ]
+  },
+  {
+    "category": "Dünya Edebiyatı",
+    "author": "Jack London",
+    "books": [
+      "Martin Eden",
+      "Beyaz Diş",
+      "Vahşetin Çağrısı",
+      "Demir Ökçe",
+      "Deniz Kurdu",
+      "Yıldız Gezgini"
+    ]
+  },
+  {
+    "category": "Dünya Edebiyatı",
+    "author": "Jules Verne",
+    "books": [
+      "Denizler Altında Yirmi Bin Fersah",
+      "Seksen Günde Devriâlem",
+      "Dünyanın Merkezine Yolculuk",
+      "Esrarlı Ada",
+      "Kaptan Grant’ın Çocukları",
+      "Aya Yolculuk"
+    ]
+  },
+  {
+    "category": "Dünya Edebiyatı",
+    "author": "Agatha Christie",
+    "books": [
+      "Doğu Ekspresinde Cinayet",
+      "Roger Ackroyd Cinayeti",
+      "Nil’de Ölüm",
+      "ABC Cinayetleri",
+      "Ölüm Sessiz Geldi",
+      "Beş Küçük Domuz",
+      "Ve Perde İndi",
+      "On Küçük Zenci"
+    ]
+  },
+  {
+    "category": "Şiir ve Düşünce",
+    "author": "Necip Fazıl Kısakürek",
+    "books": [
+      "Çile",
+      "Bir Adam Yaratmak",
+      "Reis Bey",
+      "İdeolocya Örgüsü",
+      "O ve Ben",
+      "Kafa Kâğıdı",
+      "Tohum",
+      "Para"
+    ]
+  },
+  {
+    "category": "Şiir ve Düşünce",
+    "author": "Sezai Karakoç",
+    "books": [
+      "Diriliş Neslinin Amentüsü",
+      "İslamın Dirilişi",
+      "İnsanlığın Dirilişi",
+      "Ruhun Dirilişi",
+      "Gün Doğmadan",
+      "Yitik Cennet",
+      "Düşünceler I",
+      "Düşünceler II"
+    ]
+  },
+  {
+    "category": "Şiir ve Düşünce",
+    "author": "Cemil Meriç",
+    "books": [
+      "Bu Ülke",
+      "Jurnal",
+      "Kırk Ambar",
+      "Mağaradakiler",
+      "Umrandan Uygarlığa",
+      "Bir Dünyanın Eşiğinde"
+    ]
+  },
+  {
+    "category": "Şiir ve Düşünce",
+    "author": "Nazım Hikmet",
+    "books": [
+      "Memleketimden İnsan Manzaraları",
+      "Kuvâyi Milliye Destanı",
+      "835 Satır",
+      "Taranta Babu’ya Mektuplar"
+    ]
+  },
+  {
+    "category": "Şiir ve Düşünce",
+    "author": "Cahit Zarifoğlu",
+    "books": [
+      "İşaret Çocukları",
+      "Yedi Güzel Adam",
+      "Menziller",
+      "Korku ve Yakarış",
+      "Yaşamak"
+    ]
+  },
+  {
+    "category": "Şiir ve Düşünce",
+    "author": "Erdem Bayazıt",
+    "books": [
+      "Sebep Ey",
+      "Risaleler",
+      "Gelecek Zaman Risalesi",
+      "Şiirler"
+    ]
+  },
+  {
+    "category": "Şiir ve Düşünce",
+    "author": "İsmet Özel",
+    "books": [
+      "Erbain",
+      "Bir Yusuf Masalı",
+      "Celladıma Gülümserken",
+      "Üç Mesele"
+    ]
+  },
+  {
+    "category": "Şiir ve Düşünce",
+    "author": "Attilâ İlhan",
+    "books": [
+      "Ben Sana Mecburum",
+      "Sisler Bulvarı",
+      "Yağmur Kaçağı",
+      "Ayrılık Sevdaya Dahil"
+    ]
+  },
+  {
+    "category": "Şiir ve Düşünce",
+    "author": "Cemal Süreya",
+    "books": [
+      "Üvercinka",
+      "Göçebe",
+      "Beni Öp Sonra Doğur Beni",
+      "Sevda Sözleri"
+    ]
+  },
+  {
+    "category": "Şiir ve Düşünce",
+    "author": "Turgut Uyar",
+    "books": [
+      "Dünyanın En Güzel Arabistanı",
+      "Tütünler Islak",
+      "Divan",
+      "Büyük Saat"
+    ]
+  },
+  {
+    "category": "Şiir ve Düşünce",
+    "author": "Edip Cansever",
+    "books": [
+      "Yerçekimli Karanfil",
+      "Ben Ruhi Bey Nasılım",
+      "Çağrılmayan Yakup",
+      "Sonrası Kalır"
+    ]
+  },
+  {
+    "category": "Şiir ve Düşünce",
+    "author": "Ahmet Haşim",
+    "books": [
+      "Piyâle",
+      "Göl Saatleri",
+      "Bize Göre",
+      "Gurabahane-i Laklakan"
+    ]
+  },
+  {
+    "category": "Felsefe ve Mantık",
+    "author": "Platon",
+    "books": [
+      "Devlet",
+      "Şölen",
+      "Sokrates’in Savunması",
+      "Phaidon",
+      "Timaios"
+    ]
+  },
+  {
+    "category": "Felsefe ve Mantık",
+    "author": "Aristoteles",
+    "books": [
+      "Metafizik",
+      "Nikomakhos’a Etik",
+      "Politika",
+      "Organon"
+    ]
+  },
+  {
+    "category": "Felsefe ve Mantık",
+    "author": "Descartes",
+    "books": [
+      "Yöntem Üzerine Konuşma",
+      "Meditasyonlar",
+      "Felsefenin İlkeleri",
+      "Ruhun Tutkuları"
+    ]
+  },
+  {
+    "category": "Felsefe ve Mantık",
+    "author": "Immanuel Kant",
+    "books": [
+      "Saf Aklın Eleştirisi",
+      "Pratik Aklın Eleştirisi",
+      "Yargı Gücünün Eleştirisi",
+      "Ahlak Metafiziğinin Temellendirilmesi"
+    ]
+  },
+  {
+    "category": "Felsefe ve Mantık",
+    "author": "Friedrich Nietzsche",
+    "books": [
+      "Böyle Buyurdu Zerdüşt",
+      "İyinin ve Kötünün Ötesinde",
+      "Ahlakın Soykütüğü",
+      "Putların Alacakaranlığı"
+    ]
+  },
+  {
+    "category": "Felsefe ve Mantık",
+    "author": "Arthur Schopenhauer",
+    "books": [
+      "İsteme ve Tasarım Olarak Dünya",
+      "Yaşam Bilgeliği Üzerine Aforizmalar",
+      "Aşkın Metafiziği",
+      "Eristik Diyalektik"
+    ]
+  },
+  {
+    "category": "Felsefe ve Mantık",
+    "author": "Søren Kierkegaard",
+    "books": [
+      "Korku ve Titreme",
+      "Ya/Ya da",
+      "Ölümcül Hastalık Umutsuzluk",
+      "Kaygı Kavramı"
+    ]
+  },
+  {
+    "category": "Felsefe ve Mantık",
+    "author": "Jean-Paul Sartre",
+    "books": [
+      "Bulantı",
+      "Varlık ve Hiçlik",
+      "Duvar",
+      "Özgürlüğün Yolları"
+    ]
+  },
+  {
+    "category": "Felsefe ve Mantık",
+    "author": "Bertrand Russell",
+    "books": [
+      "Felsefe Sorunları",
+      "Batı Felsefesi Tarihi",
+      "Aylaklığa Övgü",
+      "Mutlu Olma Sanatı"
+    ]
+  },
+  {
+    "category": "Felsefe ve Mantık",
+    "author": "Karl Popper",
+    "books": [
+      "Açık Toplum ve Düşmanları",
+      "Bilimsel Araştırmanın Mantığı",
+      "Tarihselciliğin Sefaleti",
+      "Bitmeyen Arayış"
+    ]
+  },
+  {
+    "category": "Felsefe ve Mantık",
+    "author": "İbn Sînâ",
+    "books": [
+      "eş-Şifâ",
+      "en-Necât",
+      "el-İşârât ve’t-Tenbîhât",
+      "el-Kânûn fi’t-Tıbb"
+    ]
+  },
+  {
+    "category": "Felsefe ve Mantık",
+    "author": "Fârâbî",
+    "books": [
+      "el-Medînetü’l-Fâzıla",
+      "İhsâü’l-Ulûm",
+      "es-Siyâsetü’l-Medeniyye",
+      "Kitâbü’l-Mûsîka’l-Kebîr"
+    ]
+  },
+  {
+    "category": "Tarih ve Medeniyet",
+    "author": "İlber Ortaylı",
+    "books": [
+      "İmparatorluğun En Uzun Yüzyılı",
+      "Türklerin Tarihi",
+      "Bir Ömür Nasıl Yaşanır?",
+      "Osmanlı’yı Yeniden Keşfetmek"
+    ]
+  },
+  {
+    "category": "Tarih ve Medeniyet",
+    "author": "Halil İnalcık",
+    "books": [
+      "Devlet-i Aliyye",
+      "Osmanlı İmparatorluğu Klasik Çağ",
+      "Fatih Devri Üzerinde Tetkikler ve Vesikalar",
+      "Şair ve Patron"
+    ]
+  },
+  {
+    "category": "Tarih ve Medeniyet",
+    "author": "Fuat Köprülü",
+    "books": [
+      "Türk Edebiyatında İlk Mutasavvıflar",
+      "Osmanlı İmparatorluğunun Kuruluşu",
+      "Türk Edebiyatı Tarihi",
+      "Türkiye Tarihi"
+    ]
+  },
+  {
+    "category": "Tarih ve Medeniyet",
+    "author": "Bernard Lewis",
+    "books": [
+      "Modern Türkiye’nin Doğuşu",
+      "Ortadoğu",
+      "İslam’ın Siyasal Söylemi",
+      "Tarihte Araplar"
+    ]
+  },
+  {
+    "category": "Tarih ve Medeniyet",
+    "author": "Eric Hobsbawm",
+    "books": [
+      "Devrim Çağı",
+      "Sermaye Çağı",
+      "İmparatorluk Çağı",
+      "Aşırılıklar Çağı"
+    ]
+  },
+  {
+    "category": "Tarih ve Medeniyet",
+    "author": "Yuval Noah Harari",
+    "books": [
+      "Sapiens",
+      "Homo Deus",
+      "21. Yüzyıl İçin 21 Ders",
+      "Neksus"
+    ]
+  },
+  {
+    "category": "Tarih ve Medeniyet",
+    "author": "Jared Diamond",
+    "books": [
+      "Tüfek Mikrop ve Çelik",
+      "Çöküş",
+      "Düne Kadar Dünya",
+      "Yükseliş"
+    ]
+  },
+  {
+    "category": "Tarih ve Medeniyet",
+    "author": "Fernand Braudel",
+    "books": [
+      "Akdeniz ve Akdeniz Dünyası",
+      "Maddi Uygarlık Ekonomi ve Kapitalizm",
+      "Tarihin Yapıları",
+      "Uygarlıkların Grameri"
+    ]
+  },
+  {
+    "category": "Tarih ve Medeniyet",
+    "author": "Arnold Toynbee",
+    "books": [
+      "Tarih Bilinci",
+      "Medeniyet Yargılanıyor",
+      "Tarih Üzerine Bir İnceleme",
+      "Değişim ve Alışkanlık"
+    ]
+  },
+  {
+    "category": "Tarih ve Medeniyet",
+    "author": "Amin Maalouf",
+    "books": [
+      "Semerkant",
+      "Afrikalı Leo",
+      "Tanios Kayası",
+      "Doğunun Limanları",
+      "Ölümcül Kimlikler",
+      "Yüzüncü Ad"
+    ]
+  },
+  {
+    "category": "Tarih ve Medeniyet",
+    "author": "Fuat Sezgin",
+    "books": [
+      "İslam’da Bilim ve Teknik",
+      "İslam Uygarlığında Astronomi Coğrafya ve Denizcilik",
+      "İslam Bilimler Tarihi Üzerine Konferanslar",
+      "İslam Bilimler Tarihi Üzerine Araştırmalar"
+    ]
+  },
+  {
+    "category": "Tarih ve Medeniyet",
+    "author": "Carter V. Findley",
+    "books": [
+      "Modern Türkiye Tarihi",
+      "Osmanlı İmparatorluğu’nda Bürokratik Reform",
+      "Dünya Tarihinde Türkler",
+      "Osmanlı Devleti’nde Bürokratik Reform"
+    ]
+  },
+  {
+    "category": "Psikoloji ve Eğitim",
+    "author": "Sigmund Freud",
+    "books": [
+      "Rüyaların Yorumu",
+      "Günlük Yaşamın Psikopatolojisi",
+      "Haz İlkesinin Ötesinde",
+      "Uygarlığın Huzursuzluğu"
+    ]
+  },
+  {
+    "category": "Psikoloji ve Eğitim",
+    "author": "Carl Gustav Jung",
+    "books": [
+      "İnsan ve Sembolleri",
+      "Dört Arketip",
+      "Anılar Düşler Düşünceler",
+      "Psikoloji ve Din"
+    ]
+  },
+  {
+    "category": "Psikoloji ve Eğitim",
+    "author": "Alfred Adler",
+    "books": [
+      "İnsanı Tanıma Sanatı",
+      "Yaşamın Anlam ve Amacı",
+      "Çocuk Eğitimi",
+      "Bireysel Psikoloji"
+    ]
+  },
+  {
+    "category": "Psikoloji ve Eğitim",
+    "author": "Viktor Frankl",
+    "books": [
+      "İnsanın Anlam Arayışı",
+      "Duyulmayan Anlam Çığlığı",
+      "İnsanın Anlam İstenci",
+      "Psikoterapi ve Din"
+    ]
+  },
+  {
+    "category": "Psikoloji ve Eğitim",
+    "author": "Erich Fromm",
+    "books": [
+      "Sevme Sanatı",
+      "Sahip Olmak ya da Olmak",
+      "Özgürlükten Kaçış",
+      "İnsandaki Yıkıcılığın Kökenleri"
+    ]
+  },
+  {
+    "category": "Psikoloji ve Eğitim",
+    "author": "Daniel Kahneman",
+    "books": [
+      "Hızlı ve Yavaş Düşünme",
+      "Gürültü",
+      "Dikkat ve Çaba"
+    ]
+  },
+  {
+    "category": "Psikoloji ve Eğitim",
+    "author": "Oliver Sacks",
+    "books": [
+      "Karısını Şapka Sanan Adam",
+      "Uyanışlar",
+      "Migren",
+      "Müzikofili"
+    ]
+  },
+  {
+    "category": "Psikoloji ve Eğitim",
+    "author": "Jean Piaget",
+    "books": [
+      "Çocuğun Ahlaki Yargısı",
+      "Çocukta Dil ve Düşünce",
+      "Zekânın Psikolojisi",
+      "Çocukta Gerçeklik Kavramı"
+    ]
+  },
+  {
+    "category": "Psikoloji ve Eğitim",
+    "author": "Lev Vygotsky",
+    "books": [
+      "Düşünce ve Dil",
+      "Zihin ve Toplum",
+      "Eğitim Psikolojisi",
+      "Sanatın Psikolojisi"
+    ]
+  },
+  {
+    "category": "Psikoloji ve Eğitim",
+    "author": "John Dewey",
+    "books": [
+      "Demokrasi ve Eğitim",
+      "Deneyim ve Eğitim",
+      "Okul ve Toplum",
+      "Nasıl Düşünürüz?"
+    ]
+  },
+  {
+    "category": "Psikoloji ve Eğitim",
+    "author": "Maria Montessori",
+    "books": [
+      "Çocuğun Keşfi",
+      "Emici Zihin",
+      "Çocukluğun Sırrı",
+      "Montessori Metodu"
+    ]
+  },
+  {
+    "category": "Psikoloji ve Eğitim",
+    "author": "Paulo Freire",
+    "books": [
+      "Ezilenlerin Pedagojisi",
+      "Özgürlüğün Pedagojisi",
+      "Umut Pedagojisi",
+      "Kültür İşçileri Olarak Öğretmenler"
+    ]
+  },
+  {
+    "category": "Bilim ve Matematik",
+    "author": "Stephen Hawking",
+    "books": [
+      "Zamanın Kısa Tarihi",
+      "Ceviz Kabuğundaki Evren",
+      "Büyük Tasarım",
+      "Kara Delikler ve Bebek Evrenler"
+    ]
+  },
+  {
+    "category": "Bilim ve Matematik",
+    "author": "Carl Sagan",
+    "books": [
+      "Kozmos",
+      "Soluk Mavi Nokta",
+      "Cennetin Ejderleri",
+      "Karanlık Bir Dünyada Bilimin Mum Işığı"
+    ]
+  },
+  {
+    "category": "Bilim ve Matematik",
+    "author": "Richard Feynman",
+    "books": [
+      "Eminim Şaka Yapıyorsunuz Bay Feynman",
+      "Fizik Yasaları Üzerine",
+      "Feynman Fizik Dersleri",
+      "Altı Kolay Parça"
+    ]
+  },
+  {
+    "category": "Bilim ve Matematik",
+    "author": "Albert Einstein",
+    "books": [
+      "Görelilik",
+      "Dünyamıza Bakış",
+      "Fikirler ve Görüşler",
+      "Neden Sosyalizm?"
+    ]
+  },
+  {
+    "category": "Bilim ve Matematik",
+    "author": "Isaac Newton",
+    "books": [
+      "Principia",
+      "Opticks",
+      "Arithmetica Universalis",
+      "Method of Fluxions"
+    ]
+  },
+  {
+    "category": "Bilim ve Matematik",
+    "author": "Charles Darwin",
+    "books": [
+      "Türlerin Kökeni",
+      "İnsanın Türeyişi",
+      "Beagle Yolculuğu",
+      "İnsan ve Hayvanlarda Duyguların İfadesi"
+    ]
+  },
+  {
+    "category": "Bilim ve Matematik",
+    "author": "Richard Dawkins",
+    "books": [
+      "Gen Bencildir",
+      "Kör Saatçi",
+      "Ataların Hikâyesi",
+      "Yeryüzündeki En Büyük Gösteri"
+    ]
+  },
+  {
+    "category": "Bilim ve Matematik",
+    "author": "Simon Singh",
+    "books": [
+      "Fermat’nın Son Teoremi",
+      "Kod Kitabı",
+      "Büyük Patlama",
+      "Simpsonlar ve Matematik"
+    ]
+  },
+  {
+    "category": "Bilim ve Matematik",
+    "author": "Ian Stewart",
+    "books": [
+      "Doğanın Sayıları",
+      "Matematiğin Kısa Tarihi",
+      "Profesör Stewart’ın Matematiksel Meraklar Kabinesi",
+      "Matematiğin Gizli Dünyası"
+    ]
+  },
+  {
+    "category": "Bilim ve Matematik",
+    "author": "Marcus du Sautoy",
+    "books": [
+      "Asal Sayıların Müziği",
+      "Simetri",
+      "Bilinmeyenlerin Haritası",
+      "Yaratıcılık Kodu"
+    ]
+  },
+  {
+    "category": "Bilim ve Matematik",
+    "author": "George Pólya",
+    "books": [
+      "Nasıl Çözmeli?",
+      "Matematik ve Akıl Yürütme",
+      "Matematiksel Keşif",
+      "Problemler ve Teoremler"
+    ]
+  },
+  {
+    "category": "Bilim ve Matematik",
+    "author": "Martin Gardner",
+    "books": [
+      "Matematiksel Bulmacalar ve Eğlenceler",
+      "Matematiksel Oyunlar",
+      "Matematik Bilmeceleri",
+      "Matematiğin Eğlenceli Dünyası"
+    ]
+  }
+]

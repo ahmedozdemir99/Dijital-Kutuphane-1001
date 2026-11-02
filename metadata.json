@@ -1,0 +1,8 @@
+{
+  "name": "Dijital Kütüphanem",
+  "description": "Dijital Kütüphanem — Kişisel dijital kütüphane, 2021-2026 okuma arşivi, İlim Yolculuğum programı ve Şiir Deryası sistemi.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
